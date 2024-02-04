@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhuvaneswari-Jayakumar
-- 👀 I’m interested in problem solving.
+- 👀 I’m interested in programming to land on a software development role.
 - 🌱 I’m currently learning c and java 
 - 💞️ I’m looking to collaborate on multiple projects
 - 📫 How to reach me ...
